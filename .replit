@@ -1,0 +1,2 @@
+run = "python 'problem5'/2n-1.py"
+language = "bash" # optional
